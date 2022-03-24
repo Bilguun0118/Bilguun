@@ -15,6 +15,8 @@
   <img align="left" alt="Zolboo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
+<img align="right" alt="GIF" src="https://github.com/soulforger1/soulforger1/blob/main/code.gif?raw=true" width="500" height="320" />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
