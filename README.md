@@ -15,7 +15,7 @@
   <img align="left" alt="Zolboo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<img align="right" alt="GIF" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif" width="400" height="317" />
+<img align="right" alt="GIF" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif" width="400" height="317"/>
 
 
 ### Languages and Tools:
