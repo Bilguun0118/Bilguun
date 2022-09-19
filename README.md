@@ -6,7 +6,6 @@
 - 🔭 Check out my VS Code course!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Learn more about web3
 
 ### Connect with me:
 
